@@ -1,0 +1,10 @@
+# subtitle-studio layer
+# Registers the subtitle-studio bundle into the composition.
+# The bundle exposes the five subtitle tools (sub_parse, sub_translate,
+# sub_merge, sub_export, sub_glossary) plus the `subtitleStudio` service.
+- insert:
+    - id: subtitle-studio
+      name: subtitle-studio
+      config:
+        targetLanguages: []
+        sourceLanguage: ''
