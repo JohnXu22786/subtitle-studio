@@ -1,0 +1,18 @@
+1
+00:00:01,000 --> 00:00:04,000
+Welcome to subtitle-studio.
+This line has two parts.
+
+2
+00:00:04,500 --> 00:00:08,250
+<i>DeepSeek</i> plugins are easy to build.
+Every step is a plugin.
+
+3
+00:00:08,750 --> 00:00:12,000
+Now let's translate with a glossary.
+Special terms: DeepSeek Harness.
+
+4
+00:00:12,250 --> 00:00:15,750
+Overlong sentence detecting real-time subtitle translation workflows for batch directory processing of many files at once with concurrency limits and pause-resume support.

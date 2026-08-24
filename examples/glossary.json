@@ -1,0 +1,10 @@
+{
+  "name": "sample-glossary",
+  "entries": [
+    { "source": "DeepSeek Harness", "target": "深度求索工具链", "scope": "zh", "note": "official product name" },
+    { "source": "subtitle-studio", "target": "字幕工坊", "scope": "zh" },
+    { "source": "bilingual", "target": "双语", "scope": "zh" },
+    { "source": "glossary", "target": "术语表", "scope": "zh" },
+    { "source": "hello", "target": "bonjour", "scope": "fr" }
+  ]
+}

@@ -1,0 +1,23 @@
+WEBVTT - Sample VTT
+Kind: captions
+Language: en
+
+1
+00:00:00.500 --> 00:00:03.000 align:start position:10%
+Hello <v Alice>WebVTT</v> world.
+
+NOTE This block should be ignored by the parser.
+
+STYLE
+::cue {
+  color: yellow;
+}
+
+2
+00:00:03.200 --> 00:00:06.400
+A second cue with
+multiple lines.
+
+Region cue
+00:00:07.000 --> 00:00:09.000 region:fred
+Regionized text.
